@@ -1,1 +1,2 @@
-# SmartPantry
+# Smart Pantry
+This project I made with a group during a class, _Senior Capstone Project for Software Engineering_, where we were tasked with making a React web/mobile app of our choice. We decided to make Smart Pantry, a web app designed to limit food waste. Our app allows users to scan grocery items into a virtual pantry, which keeps track of the expiration date. When the expiration dates are approaching, our app sends notifications to the users with reminders and with suggested recipes for them to make along with other items in their pantries. This app was made using React + Vite along with JavaScript, HTML, and CSS.
